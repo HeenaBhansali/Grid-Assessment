@@ -1,0 +1,22 @@
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.title {
+    margin: 0;
+    font-size: 24px;
+    margin: 0;
+    text-align: center;
+    flex: 1;
+}
+
+.link{
+    width: 26px;
+    height: 26px;
+}

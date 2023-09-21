@@ -1,0 +1,13 @@
+[
+    { "value": "Mahindra", "label": "Mahindra", "group": "Car"},
+    { "value": "Grid", "label": "Grid"},
+    { "value": "Honda", "label": "Honda", "group": "Car"},
+    { "value": "Skoda", "label": "Skoda", "group": "Car" },
+    { "value": "Hero", "label": "Hero", "group": "Bike" },
+    { "value": "Bajaj", "label": "Bajaj", "group": "Bike" },
+    { "value": "Volkswagen", "label": "Volkswagen", "group": "Car" },
+    { "value": "Renault", "label": "Renault", "group": "Car" },
+    { "value": "Yamaha", "label": "Yamaha", "group": "Bike" },
+    { "value": "TCS", "label": "TCS" },
+    { "value": "Wipro", "label": "Wipro"}
+]
